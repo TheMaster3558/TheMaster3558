@@ -1,18 +1,71 @@
-<h1 align="center">Hi 👋, I'm The Master</h1>
+<!-- Profile README for TheMaster3558 -->
 
+<h1 align="center">Hey there, I'm TheMaster3558 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themaster3558" alt="themaster3558" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/themaster3558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="themaster3558" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner;Always+building+something!&center=true&width=500&height=30">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheMaster3558&label=Profile+Views" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themaster3558&show_icons=true&locale=en&layout=compact" alt="themaster3558" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themaster3558&show_icons=true&locale=en" alt="themaster3558" /></p>
+## 💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themaster3558&" alt="themaster3558" /></p>
+- 🛠️ Full-stack developer who loves building and breaking things.
+- 🌱 Currently learning **AI/ML, microservices, and cloud infrastructure**.
+- 👯 Open for collaboration on any cool project!
+- 💬 Ask me about **JavaScript, TypeScript, Python, and Next.js**.
+- 📝 [Check out my portfolio!](https://your-portfolio-link.com)  
+- 🕹️ Fun Fact: I automate the boring stuff.
+
+---
+
+## ⚡️ Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheMaster3558&show_icons=true&hide_rank=true&theme=radical" alt="TheMaster3558's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaster3558&theme=radical" alt="TheMaster3558's GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheMaster3558&theme=radical" alt="TheMaster3558's Activity Graph"/>
+</p>
+
+---
+
+## 🚀 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+---
+
+## 📫 How to reach me
+
+- Email: chawk_k@outlook.com
+
+
+---
+
+<!-- Optional: Add a fun gif or quote! -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vQVeFB6cgi2lT4w/giphy.gif" width="150">
+</p>
+
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+</p>
